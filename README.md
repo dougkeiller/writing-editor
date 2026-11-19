@@ -57,3 +57,7 @@ bash golden/run.sh
 ## Status
 
 Version 0.1.0. Tested on Sonnet in Claude Code: all five golden cases pass. Not yet tested: the re-diagram step after a revision, Opus, and claude.ai.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

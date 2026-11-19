@@ -2,6 +2,15 @@
   "name": "writing-editor",
   "version": "0.1.0",
   "description": "An edit-only writing editor: diagrams your draft as a Minto pyramid, checks BLUF and the argument, asks questions and proposes tracked edits. It never writes a new draft.",
-  "author": { "name": "Doug Keiller" },
-  "keywords": ["writing", "editing", "minto", "bluf", "critical-thinking"]
+  "author": {
+    "name": "Doug Keiller"
+  },
+  "keywords": [
+    "writing",
+    "editing",
+    "minto",
+    "bluf",
+    "critical-thinking"
+  ],
+  "license": "MIT"
 }
