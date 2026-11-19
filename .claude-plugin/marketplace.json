@@ -1,0 +1,10 @@
+{
+  "name": "writing-editor",
+  "owner": { "name": "Doug Keiller" },
+  "metadata": { "description": "Edit-only writing review for Claude Code", "version": "1.0.0" },
+  "plugins": [
+    { "name": "writing-editor", "source": "./", "version": "0.1.0",
+      "description": "Minto pyramid, BLUF and argument checks that diagnose and suggest edits, never redraft",
+      "keywords": ["writing", "editing", "minto"] }
+  ]
+}
