@@ -35,7 +35,7 @@ It runs only when you ask. If you keep a writing-style profile (for example a `m
 | So-what | What should the reader think or do because of each paragraph? Risks and next steps are never cut. |
 | Hedging and vagueness | Which hedges hide a decision, owner, date or number? Qualifiers that reflect a real evidence limit stay. |
 
-All four argument checks run by default; switch one off for a run ("skip hedging"). Sources for each check, and what was considered and left out, are in [`references/checks.md`](references/checks.md).
+All four argument checks run by default; switch one off for a run ("skip hedging"). Sources for each check, and what was considered and left out, are in [`references/checks.md`](plugin/references/checks.md).
 
 ## Install
 
