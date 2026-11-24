@@ -12,5 +12,10 @@
     "bluf",
     "critical-thinking"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/dougkeiller/writing-editor",
+  "repository": "https://github.com/dougkeiller/writing-editor",
+  "supportUrl": "https://github.com/dougkeiller/writing-editor/issues",
+  "documentationUrl": "https://github.com/dougkeiller/writing-editor#readme",
+  "privacyPolicyUrl": "https://github.com/dougkeiller/writing-editor/blob/main/PRIVACY.md"
 }
